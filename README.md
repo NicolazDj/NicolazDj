@@ -1,6 +1,6 @@
 # ¡Hola! Soy NicolazDj 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado por la tecnología y la programación. Aquí encontrarás algunos de mis proyectos y contribuciones.
+¡Bienvenido a mi perfil de GitHub! Soy DJ que está adquiriendo conocimientos sobre electronica para aplicar en mi vida laboral. Un Gusto resivir tu visita
 
 ## Acerca de mí
 
