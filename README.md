@@ -4,13 +4,8 @@
 
 ## Acerca de mí
 
-- 🌱 Actualmente estoy aprendiendo **[Tecnologías que estás aprendiendo]**
-- 👯 Estoy buscando colaborar en **[Proyectos en los que te gustaría colaborar]**
-- 🤔 Estoy buscando ayuda con **[Cosas con las que necesitas ayuda]**
-- 💬 Pregúntame sobre **[Temas sobre los que puedes ayudar]**
-- 📫 Cómo contactarme: **[Correo o redes sociales]**
-- 😄 Pronombres: **[Tus pronombres]**
-- ⚡ Dato curioso: **[Dato curioso sobre ti]**
+- 🌱 Actualmente estoy aprendiendo **MicroElectronica**
+- 👯 Estoy buscando colaborar en **Soldadura SMD**
 
 ## Estadísticas de GitHub
 
